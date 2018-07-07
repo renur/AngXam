@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AngularXam.Views.AngularDetailPage" Title="AngularJS">
+    <ContentPage.Content>
+        <ScrollView HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <StackLayout HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+
+                <Label Text="What is AngularJS?" FontSize="Medium" HorizontalOptions="StartAndExpand"/>
+                <Label Text="{Binding Data}" FontSize="14"
+               Margin="5,5,5,5"
+                HorizontalOptions="FillAndExpand"  />
+                <Label Text="Why AngularJS?" FontSize="Medium" HorizontalOptions="StartAndExpand"/>
+                <Label Text="{Binding WhyData}" FontSize="14" Margin="5,5,5,5"
+                VerticalOptions="FillAndExpand"  FlowDirection="LeftToRight" 
+                HorizontalOptions="FillAndExpand"  />
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

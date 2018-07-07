@@ -1,0 +1,334 @@
+[
+   {
+      "column0": 1,
+      "column1": "\tWhat is AngularJS? List some benefits of using AngularJS?"
+   },
+   {
+      "column0": 2,
+      "column1": "\tList some Pros an Cons of angular js?"
+   },
+   {
+      "column0": 3,
+      "column1": "\tWhat is Angular Module? How to create a Module in Angular js?"
+   },
+   {
+      "column0": 4,
+      "column1": "\tWhat is Angular Controller?"
+   },
+   {
+      "column0": 5,
+      "column1": "\tWhat is $scope?"
+   },
+   {
+      "column0": 6,
+      "column1": "\tWhat is $rootscope? How is it different from the scope?"
+   },
+   {
+      "column0": 7,
+      "column1": "\tWhat is the difference between $scope and scope?"
+   },
+   {
+      "column0": 8,
+      "column1": "\tWhat are Angular Expressions?"
+   },
+   {
+      "column0": 9,
+      "column1": "\tList the major browsers Supported by Angular js?"
+   },
+   {
+      "column0": 10,
+      "column1": "\tHow to enable HTML5 mod in Angular 1",
+      "column2": "x?"
+   },
+   {
+      "column0": 11,
+      "column1": "\tList some of the built-in validators in Angular JS?"
+   },
+   {
+      "column0": 12,
+      "column1": "\tWhat is Angular’s prefixes $ and $$?"
+   },
+   {
+      "column0": 13,
+      "column1": "\tWhat are directives? How to create and use custom Directive in Angular js"
+   },
+   {
+      "column0": 14,
+      "column1": "\tHow can you invoke a directive in Angular Js?"
+   },
+   {
+      "column0": 15,
+      "column1": "\tExplain ng-repea\tt directive in Angular Js"
+   },
+   {
+      "column0": 16,
+      "column1": "\tWhat are Constants in Angular? How to create and use Constants in Angular Js?"
+   },
+   {
+      "column0": 17,
+      "column1": "\tWhat is a Service? why we use a service in Angular Js?"
+   },
+   {
+      "column0": 18,
+      "column1": "\tExplain $q service, deferred and promises?"
+   },
+   {
+      "column0": 19,
+      "column1": "\tWhat are Filters in Angular js? List some filters in Angular js",
+      "column2": "?"
+   },
+   {
+      "column0": 20,
+      "column1": "\tIn angular js which service obj is not the singleton?"
+   },
+   {
+      "column0": 21,
+      "column1": "\tWhat are Compile, Pre, and Post linking in AngularJS?"
+   },
+   {
+      "column0": 22,
+      "column1": "\tList some Built in directives available in angular 1",
+      "column2": "x?"
+   },
+   {
+      "column0": 23,
+      "column1": "\tWhat is Data binding? Explain different types of Data binding mechanism used in Angular js"
+   },
+   {
+      "column0": 24,
+      "column1": "\tWhat is a Factory in angular Js, how it is different from a service?"
+   },
+   {
+      "column0": 25,
+      "column1": "\tHow to create a service using Factory?"
+   },
+   {
+      "column0": 26,
+      "column1": "\tExplain digest cycle in AngularJS?"
+   },
+   {
+      "column0": 27,
+      "column1": "\tWhat is Dependency Injection, How it works in Angular js?"
+   },
+   {
+      "column0": 28,
+      "column1": "\tHow can you use Jquery with Angular Js?"
+   },
+   {
+      "column0": 29,
+      "column1": "\tList some commonly used services in Angular js"
+   },
+   {
+      "column0": 30,
+      "column1": "\tHow to hide or show a div in Angular js"
+   },
+   {
+      "column0": 31,
+      "column1": "\tExplain ng-include directive?"
+   },
+   {
+      "column0": 32,
+      "column1": "\tHow to disable a control or element in Angular js"
+   },
+   {
+      "column0": 33,
+      "column1": "\tHow to create a service in Angular js?"
+   },
+   {
+      "column0": 34,
+      "column1": "\tWhat is internationalization in angular js?"
+   },
+   {
+      "column0": 35,
+      "column1": "\tWhat is Interpolation in angular Js"
+   },
+   {
+      "column0": 36,
+      "column1": "\tExplain Event in Angular js",
+      "column2": " List some events you have worked in Angular js?"
+   },
+   {
+      "column0": 37,
+      "column1": "\tExplain Routing in Angular Js?"
+   },
+   {
+      "column0": 38,
+      "column1": "\tExplain UI Routing in AngularJS?"
+   },
+   {
+      "column0": 39,
+      "column1": "\tWhat is different between ng routing and UI routing?"
+   },
+   {
+      "column0": 40,
+      "column1": "\tWhat is a dynamic route in Angular js and how do you implement it?"
+   },
+   {
+      "column0": 41,
+      "column1": "\tList and explain different types of directive available in Angular Js?"
+   },
+   {
+      "column0": 42,
+      "column1": "\tHow  Angular",
+      "column2": "js is different from Jquery?"
+   },
+   {
+      "column0": 43,
+      "column1": "\tExplain Bootstrapping in Angular Js?"
+   },
+   {
+      "column0": 44,
+      "column1": "\tWhat is a provider in Angular JS?"
+   },
+   {
+      "column0": 45,
+      "column1": "\tHow to disable right click event in Angular js?"
+   },
+   {
+      "column0": 46,
+      "column1": "\tWhat is the difference between $evalAsync and $timeout?"
+   },
+   {
+      "column0": 47,
+      "column1": "\tWhat is Isolate Scope and why it is required?"
+   },
+   {
+      "column0": 48,
+      "column1": "\tWhat are scopeless controller? why to use them?"
+   },
+   {
+      "column0": 49,
+      "column1": "\tWhat is $emit, $broadcast and $on in AngularJS?"
+   },
+   {
+      "column0": 50,
+      "column1": "\tWhat is different between ng-model and ng-bind?"
+   },
+   {
+      "column0": 51,
+      "column1": "\tHow to format a date in Angular js?"
+   },
+   {
+      "column0": 52,
+      "column1": "\tHow to do Animation in AngularJS?"
+   },
+   {
+      "column0": 53,
+      "column1": "\tWhat is the use of ng-cloak directive?"
+   },
+   {
+      "column0": 54,
+      "column1": "\tHow $location is different from window",
+      "column2": "location?"
+   },
+   {
+      "column0": 55,
+      "column1": "\tWhat is the difference between ‘this’ vs $scope in AngularJS controllers?"
+   },
+   {
+      "column0": 56,
+      "column1": "\tHow to send an Http post request in Angular js?"
+   },
+   {
+      "column0": 57,
+      "column1": "\tWrite a code to upload an image in Angular js?"
+   },
+   {
+      "column0": 58,
+      "column1": "\tHow to use $scope",
+      "column2": "$watch and $scope",
+      "column3": "$apply in AngularJS?"
+   },
+   {
+      "column0": 59,
+      "column1": "\tHow to set focus on the input field in Angular 1",
+      "column2": "x?"
+   },
+   {
+      "column0": 60,
+      "column1": "\tHow to use Multiple ng-app within a page in AngularJS?"
+   },
+   {
+      "column0": 61,
+      "column1": "\tHow to access parent scope from child controller in AngularJs?"
+   },
+   {
+      "column0": 62,
+      "column1": "\tHow to do email and Phone no validation is AngularJs?"
+   },
+   {
+      "column0": 63,
+      "column1": "\tWhat is the difference between link and compile in AngularJS?"
+   },
+   {
+      "column0": 64,
+      "column1": "\tHow can you get Url parameters in Controller?"
+   },
+   {
+      "column0": 65,
+      "column1": "\tHow to implement caching in Angular 1",
+      "column2": "x?"
+   },
+   {
+      "column0": 66,
+      "column1": "\tExplain the use of Ng-If, Ng-Switch, And Ng-Repeat directives?"
+   },
+   {
+      "column0": 67,
+      "column1": "\tHow to change start and end symbols used for AngularJS expressions?"
+   },
+   {
+      "column0": 68,
+      "column1": "\tHow to validate an URL in AngularJs?"
+   },
+   {
+      "column0": 69,
+      "column1": "\tWhat is the use of $locale service in AngularJS?"
+   },
+   {
+      "column0": 70,
+      "column1": "\tWhat is transclusion in Angular Js?"
+   },
+   {
+      "column0": 71,
+      "column1": "\tList some nethods supported by $http service?"
+   },
+   {
+      "column0": 72,
+      "column1": "\tHow to set and get and destroy cookies in ANgular Js?"
+   },
+   {
+      "column0": 73,
+      "column1": "\tWhat is the difference between a stateful and stateless component?"
+   },
+   {
+      "column0": 74,
+      "column1": "\tWhat is “track by” in AngularJS and how does it work?"
+   },
+   {
+      "column0": 75,
+      "column1": "\tExplain $templateCache in Angular Js?"
+   },
+   {
+      "column0": 76,
+      "column1": "\tWhat is the difference between a unit and end-to-end (e2e) test?"
+   },
+   {
+      "column0": 77,
+      "column1": "\tList some testing Tools available in Angular JS?"
+   },
+   {
+      "column0": 78,
+      "column1": "\tExplain ",
+      "column2": "config() and ",
+      "column3": "run() methods AngularJS?"
+   },
+   {
+      "column0": 79,
+      "column1": "\tWhat is a Mocked Service in Angular Js? How to use it?"
+   },
+   {
+      "column0": 80,
+      "column1": "\tWhat is a locale ID in Angular JS?"
+   }
+]
